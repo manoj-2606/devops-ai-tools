@@ -2,7 +2,7 @@
 > Paste a failed log. Get the root cause and fix — in seconds.
 
 **Live:** [ai-dev-ops-incident-copilot.vercel.app](https://ai-dev-ops-incident-copilot.vercel.app)
-![Preview](./assets/preview.png)
+![Preview](./preview.png)
 
 ---
 

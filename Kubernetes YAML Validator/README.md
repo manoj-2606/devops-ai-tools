@@ -2,7 +2,7 @@
 > Paste a manifest. Get errors, warnings, and a production-ready fixed YAML — instantly.
 
 **Live:** [kubernetes-yaml-validator.vercel.app](https://kubernetes-yaml-validator.vercel.app)
-![Preview](./assets/preview.png)
+![Preview](./preview.png)
 
 ---
 

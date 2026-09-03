@@ -2,7 +2,7 @@
 > Generate production-ready `azure-pipelines.yml` files from plain English — in seconds.
 
 **Live:** [azure-pipeline-yaml-generator.vercel.app](https://azure-pipeline-yaml-generator.vercel.app)
-![Preview](./assets/preview.png)
+![Preview](./preview.png)
 
 ---
 
