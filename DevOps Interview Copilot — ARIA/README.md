@@ -2,6 +2,9 @@
 > Pick a role. Answer 10 questions. Get scored, evaluated, and told exactly what to study next.
 
 **Live:** [devops-interview-copilot.vercel.app](https://devops-interview-copilot.vercel.app)
+
+&nbsp;
+
 ![Preview](./preview.png)
 
 ---
